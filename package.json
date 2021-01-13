@@ -5,7 +5,8 @@
   "main": "app.js",
   "scripts": {
     "dev": "env-cmd -f ./config/.env.local nodemon app.js -hbs,js",
-    "start": "env-cmd -f ./config/.env.local node app.js"
+    "start": "node app.js",
+    "starts": "env-cmd -f ./config/.env.local node app.js"
   },
   "author": "",
   "license": "ISC",

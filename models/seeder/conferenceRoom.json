@@ -1,0 +1,22 @@
+[{
+        "name": "R001",
+        "location": "Afab001室",
+        "accommodate": 50,
+        "managerId": "003",
+        "price": 500
+    },
+    {
+        "name": "R002",
+        "location": "Afab002室",
+        "accommodate": 30,
+        "managerId": "001",
+        "price": 300
+    },
+    {
+        "name": "R003",
+        "location": "Bfab003室",
+        "accommodate": 35,
+        "managerId": "002",
+        "price": 350
+    }
+]

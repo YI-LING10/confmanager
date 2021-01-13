@@ -1,0 +1,38 @@
+[
+    {
+        "staffId": "001",
+        "name": "Landy",
+        "position": "人事部經理",
+        "email": "lv@aa.bb",
+        "password": "one"
+    },
+    {
+        "staffId": "002",
+        "name": "Mandy",
+        "position": "會計部主任",
+        "email": "mv@aa.bb",
+        "password": "two"
+    },
+    {
+        "staffId": "003",
+        "name": "Pandy",
+        "position": "人事部主任",
+        "email": "pv@aa.bb",
+        "password": "three"
+    },
+    {
+        "staffId": "004",
+        "name": "Handy",
+        "position": "業務部部員",
+        "email": "hv@aa.bb",
+        "password": "four"
+    },
+    {
+        "staffId": "005",
+        "name": "Vandy",
+        "position": "財務部主管",
+        "email": "vv@aa.bb",
+        "password": "five"
+    }
+    
+]
